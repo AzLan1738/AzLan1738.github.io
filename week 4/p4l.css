@@ -1,0 +1,41 @@
+header{
+  background: url("tortilla-pizza-recipe4.jpg");
+  background-size: 100px 100px;
+  background-repeat: repeat;
+  padding: 15px;
+  background-position: left top;
+}
+
+h1 {
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+body{
+  background: rgba(0, 128, 0, 0.3)
+
+}
+section {
+  border-style: dotted;
+  word-wrap: break-word;
+  background: white;
+}
+article {
+  border-style: dotted;
+  word-wrap: break-word;
+   background: white;
+}
+
+div{
+  border-style: dotted;
+  word-wrap: break-word;
+  background: white;
+}
+aside{
+  word-wrap: break-word;
+  background: white;
+}
+footer{
+  border-style: dotted;
+  clear: both;
+  text-align: center;
+}
